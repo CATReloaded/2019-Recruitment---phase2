@@ -2,7 +2,7 @@
 ### Welcome to the next step in joining CAT Reloaded, in this file you'll find the suggested material that you'll need to solve the upcoming task
 ### Each circle recommends a programming language, but feel free to use any language u know
 
-### __ Data Science Circle __
+### __Data Science Circle__
 #### 1. Finish the following [Python tutorial] (https://www.kaggle.com/learn/python)
 #### Note that you **must register in kaggle first**
 #### 2. Google the following statistical concepts [Mean,Median,Mode,normal distribution,Correlation]

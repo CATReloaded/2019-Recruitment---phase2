@@ -5,6 +5,6 @@
 2- Search on YouTube how to use pen tool on photoshop.
 
 # Task
+#### Click this link and Use the custom shapes and pen tool to draw these two faces :
 https://drive.google.com/open?id=1bef-WLCKHVCQOnGbAutTGR4bhonbo39F
-#### Click this link and Use the custom shapes and pen tool to draw these two faces.
 # Then sent them here : khaledabdelwahab23@gmail.com

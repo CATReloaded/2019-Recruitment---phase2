@@ -5,3 +5,4 @@
 #### 2- http://codeforces.com/problemset/problem/595/A
 #### 3- http://codeforces.com/problemset/problem/855/A
 Good Luck
+## Hint: You don't have to solve this perfectly it just shows how commited you are

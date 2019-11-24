@@ -13,5 +13,6 @@
 ###      or when getDamage() is called from MageEnemy it returns 100 - for example -
 ###      and GetType() would just print wither it's TankEnemy or MageEnemy.
 
-#To submit the code paste it here (https://ideone.com/) and submit the link to the form (you can also send a github link)
+#To submit the code paste it here (https://ideone.com/) and submit the link to the form : https://forms.gle/oJZZY2VTceTfCbSPA
+ (you can also send a github link)
 #Hint: You don't have to solve this perfectly it just shows how commited you are

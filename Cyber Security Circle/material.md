@@ -18,7 +18,7 @@
 #### Send tasks *1 and 2* formally to this e-mail: yasser_elsnbary@catreloaded.net
 ***Note:** No submission will be accepted after deadline!*
 
-GOOD L(_)CK
+<p align=center>GOOD L(_)CK</p>
 
 <p align=center>See you soon at the interview</p>
 
